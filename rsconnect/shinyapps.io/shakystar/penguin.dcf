@@ -1,0 +1,10 @@
+name: penguin
+title:
+username: shakystar
+account: shakystar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12216319
+bundleId: 8772895
+url: https://shakystar.shinyapps.io/penguin/
+version: 1
